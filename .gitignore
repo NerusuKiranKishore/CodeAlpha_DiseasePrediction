@@ -10,7 +10,7 @@ venv/
 env/
 
 # Data & outputs
-data/
+/data/
 outputs/models/
 outputs/plots/
 outputs/reports/
