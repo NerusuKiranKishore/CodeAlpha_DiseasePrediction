@@ -1,6 +1,5 @@
 # 🏥 Disease Prediction from Medical Data
 
-> **CodeAlpha Machine Learning Internship — Task 4**
 
 A production-grade, pipeline-structured machine learning project that predicts the likelihood of **Heart Disease**, **Diabetes**, and **Breast Cancer** from patient medical data using classification algorithms.
 
